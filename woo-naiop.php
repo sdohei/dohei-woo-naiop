@@ -2,10 +2,10 @@
 
 /**
  * Plugin Name:         WooCommerce NAIOP
- * Decription:          WooCommerce customizations for NAIOP
+ * Description:         WooCommerce customizations for NAIOP
  * Author:              Scott Dohei
  * GitHub Plugin URI:   https://github.com/sdohei/dohei-woo-naiop
- * Version:             1.2
+ * Version:             1.3
  */
 
 add_action('woocommerce_after_order_notes', 'custom_field');
